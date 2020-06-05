@@ -2,7 +2,7 @@
 template: post
 title: Be Persistence
 slug: be-persistence
-draft: true
+draft: false
 date: 2020-06-05T16:39:44.554Z
 description: "What you need to follow "
 category: development
