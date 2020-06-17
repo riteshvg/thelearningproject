@@ -19,3 +19,4 @@ The new Alert Builder and Alert Manager replace the existing alert functionality
 * Preview how often an alert will trigger.
 * Send alerts by e-mail or SMS with links to auto-generated Analysis Workspace projects.
 * Create "stacked" alerts that capture multiple metrics in a single alert.
+* <https://experienceleague.adobe.com/docs/analytics/components/alerts/intellligent-alerts.html?lang=en#section_1f3b1daf21784306953b49aad4c3dcab>
