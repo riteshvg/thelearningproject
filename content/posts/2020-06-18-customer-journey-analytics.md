@@ -9,6 +9,8 @@ category: analytics
 tags:
   - analytics
 ---
+### Customer Journey Analytics: Introduction
+
 Business users don't always know the question ahead of time
 
 Insights and decisions are found in the process
@@ -44,3 +46,45 @@ Common Terms in CJA:
 \- Components : Basic building blocks (Dimensions, metrics, filters, date ranges) 
 
 \- Filter : Subset of individuals based on characteristics (Segment). Person (Visitor); Session (Visit) and Event (Hit)
+
+### Customer Journey Analytics: Features
+
+Identity is set in schemas
+
+Dataset built upon schema
+
+Translates strings and numbers into dimension and metrics
+
+Features of cross - channel data
+
+Identity in CJA:
+
+\- Explain what is Person ID
+
+\- Select a customer ID
+
+\- Impact of using customer IDs
+
+One common ID (Person ID) to combine or stitch per visitor
+
+Work with Data in CJA
+
+\- CJA Data is based on top of AEP Data Structure
+
+\- Schema Data : Blueprint of data onboarded
+
+\-- String and numbers : Dimensions and metrics
+
+\- Unlimited variables
+
+\-- No limit of variables as there are no pros/evars
+
+\- Variable persistency
+
+\- A schema once created and data is loaded, it is locked
+
+\- No data loss
+
+\- Long tail values
+
+\- Query services in AEP to get all type of data
