@@ -13,7 +13,7 @@ tags:
   - adobe analytics
   - development
 ---
-More often than not, business puts forward a question to you as an Analyst. What is the ROI on our analytics investment? How can you tell me what is going up and what has gone down? Do I need to open the report every day / week to understand if there is a disturbance across the channel?
+More often than not, business puts forward a question to you as an Analyst. What is the ROI on our analytics investment? How can you tell me what is going up and what has gone down? Do I need to open for e.g. a pages report every week to analyze any anomalies?
 
 Presenting Intelligent Alerts from Adobe Analytics. Intelligent alerts helps you create alerts that get triggered when a condition gets satisfied. As per the official documentation, Intelligent Alerts let you
 
