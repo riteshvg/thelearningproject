@@ -20,20 +20,21 @@ It's only when I chanced upon a blog by Tania Rascia ([ES6 Syntax and Feature Ov
 
 const is the most ideal method for declaring a variable. Which means we should no longer be starting our code with 
 
+```
 var a = 1;
+const a = 1;
+```
 
-but const a = 1;
+and let should be used only in case of declaring loops:
 
-and let should be used only in case of declaring loops
-
+```
 let a = 1
-
 if(a){
-
-let a = 2;\
-  console.log(a); \
+let a = 2; 
+  console.log(a); //2
 }
+```
 
-Today it is common to declare a vast majority of variables using const instead of  let/var. The reason is because const will throw an error if an attempt is made to change its value after it has been declared. This is a useful feature to prevent accidental mutation. 
+Today it is common to declare variables using const instead of let or var. The reason is because const will throw an error if an attempt is made to change its value after it has been declared. This is a useful feature to prevent accidental mutation. 
 
-> I think that is all I need to know and remember. Stop using var and start using const for most of the variables, and use let only when we are creating a loop.
+> I think that is all I need to know and remember. Stop using **var** and start using **const** for most of the variables, and use **let** only when we are creating a loop.
