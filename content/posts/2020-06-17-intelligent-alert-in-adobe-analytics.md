@@ -13,6 +13,8 @@ tags:
   - adobe analytics
   - development
 ---
+
+
 More often than not, business puts forward a question to you as an Analyst. What is the ROI on our analytics investment? How can you tell me what is going up and what has gone down? Do I need to open for e.g. a pages report every week to analyze any anomalies?
 
 Presenting Intelligent Alerts from Adobe Analytics. Intelligent alerts helps you create alerts that get triggered when a condition gets satisfied. As per the official documentation, Intelligent Alerts let you
@@ -22,10 +24,18 @@ Presenting Intelligent Alerts from Adobe Analytics. Intelligent alerts helps you
 * Send alerts by e-mail or SMS with links to auto-generated Analysis Workspace projects.
 * Create "stacked" alerts that capture multiple metrics in a single alert.
 
+Intelligent alert is a part of the Adobe AI fueled system designed to help an Analyst analyze the customer more deeply and perform his job better. To set an Alert, there are two ways:
 
+1. Setting Alert from the Components tab in Adobe Analytics
 
-Intelligent alert is a part of the Adobe AI fueled system designed to help an Analyst analyze the customer more deeply and perform his job better.
+![Alert in Adobe Analytics via Components Tab](/media/screen-shot-2020-07-08-at-5.15.14-pm.png)
 
- 
+2. Using the Right Click context menu in Analysis Workspace
 
-<https://experienceleague.adobe.com/docs/analytics/components/alerts/intellligent-alerts.html?lang=en#section_1f3b1daf21784306953b49aad4c3dcab>
+![Alert in Adobe Analytics via Right Click context menu](/media/screen-shot-2020-07-08-at-5.16.06-pm.png)
+
+3. Alert via Report Suite > More
+
+![Alert via Report Suite > More ](/media/screen-shot-2020-07-08-at-5.18.21-pm.png)
+
+Alerts are a great way to showcase quick preview of the power of Adobe Analytics. I believe it is also a great way to sustain the interest of Marketing/Business in the power of data as no one can resist opening up an email alert that talks about metrics spike up or spike down.
