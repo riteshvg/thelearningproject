@@ -6,6 +6,9 @@
     &__inner {
         position: relative;
         padding: 25px 20px 0;
+        background: $color-gray-border;
+        top: 40px;
+        height: 640px;
     }
 }
 
@@ -19,9 +22,9 @@
                 background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
                 position: absolute;
                 content: '';
-                width: 1px;
-                height: 540px;
-                top: 30px;
+                width: 2px;
+                height: 800px;
+                top: 0px;
                 right: -10px;
                 bottom: 0;
             }
