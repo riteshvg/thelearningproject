@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.thelearningproject.in',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'A Blog by Ritesh Gupta',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ritesh Gupta',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'An Analyst, Technical Consultant, Technology Enthusiast, Curious Mind',
     contacts: {
       email: '',
       facebook: '#',
