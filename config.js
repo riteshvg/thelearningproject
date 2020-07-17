@@ -29,9 +29,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'An Analyst, Technical Consultant, Technology Enthusiast, Curious Mind',
     contacts: {
-      email: 'riteshvgupta@gmail.com',
+      email: '#',
+      facebook: '#',
       telegram: '#',
-      twitter: 'riteshvg',
+      twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
